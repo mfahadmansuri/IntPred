@@ -1,1 +1,0 @@
-web: python intpredapp.py --port=$PORT
